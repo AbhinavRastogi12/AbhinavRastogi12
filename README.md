@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Rastogi</h1>
-<h3 align="center">| Programmer | Developer | Learner | Content Creator |</h3>
+<h3 align="center">| Programmer | Developer | Learner |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavrastogi12&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavrastogi12" /> </p>
 
