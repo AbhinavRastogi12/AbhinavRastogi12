@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhinav16292664" target="blank"><img src="https://img.shields.io/twitter/follow/abhinav16292664?logo=twitter&style=for-the-badge" alt="abhinav16292664" /></a> </p>
 
-- 🌱 I’m currently learning: **Python, Boot Strap, Data Science**
+- 🌱 I’m currently learning: **Python, Boot Strap, ReactJS**
 
 - 👨‍💻 You can see my portfolio at: [https://abhinavrastogiitportfolio.wordpress.com/](https://abhinavrastogiitportfolio.wordpress.com/)
 
